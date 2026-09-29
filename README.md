@@ -211,7 +211,7 @@ I'm a passionate software developer with expertise in Python, web development, a
 | Platform | Link |
 |----------|------|
 | **GitHub** | [@tarikurrahmanbd](https://github.com/tarikurrahmanbd) |
-| **Portfolio** | [yourtarikur.netlify.app](https://yourtarikur.netlify.app/) |
+| **Portfolio** | [yourtarikur.vercel.app](https://yourtarikur.vercel.app/) |
 | **Email** | [tarikurrahman2008@gmail.com](mailto:tarikurrahman2008@gmail.com) |
 | **Social Handle** | @tarikurrahman08 |
 
